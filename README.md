@@ -1,6 +1,6 @@
 # Trabajo del curso Machine Learning
 
-Este repositorio ha sido creado como parte del trabajo adelantado desde la asignatura Machine Learning, asigantura dicatada en la Universidad Nacional de Colombia - Sede Medellín
+Este repositorio ha sido creado como parte del trabajo adelantado desde la asignatura Machine Learning, dicatada en la Universidad Nacional de Colombia - Sede Medellín
 
 <p align="center"><img src="https://www.g20-insights.org/wp-content/uploads/2018/07/logo-un.png" width="300"/></p>
 
