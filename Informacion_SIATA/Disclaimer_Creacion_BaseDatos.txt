@@ -1,0 +1,3 @@
+Hay muchos conjuntos de datos que son sumamente pesados antes de procesar,
+haciendome imposible cargar dicha información, por lo que es posible que 
+el Notebook Creacion_BaseDatos no pueda ser bien ejecutado.
